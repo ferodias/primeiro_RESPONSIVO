@@ -76,10 +76,10 @@ p {
         @media screen and (max-width: 520px){
         
     h1 {
-        font-size: 30px;
-        line-height: 30px;
+        font-size: 29px;
+        line-height: 29px;
         width: auto;
-        margin: 124px 55px 0 57px;
+        margin: 118px 62px 0 54px;
         text-align: center;
     
      }
@@ -88,7 +88,8 @@ p {
         width: auto;
         text-align: center;
         font-weight: 400;
-        font-size: 18px;
+        line-height: 20px;
+        font-size: 17px;
          }
 
     .button-2 {
@@ -98,9 +99,9 @@ p {
 
      img {
         position: absolute;
-        max-width: 86%;
-        top: 540px;
-        left: 36px;
+        max-width: 90%;
+        top: 532px;
+        left: 26px;
     }
         
      }
@@ -115,7 +116,7 @@ display: none;
     left: 48px;
     display: block;
     top: 24px;
-    left: 241px;
+    left: 212px;
 
 
 }
